@@ -10,7 +10,6 @@ Evaluation
 Results
 Usage
 Contributing
-License
 Introduction
 The digital revolution has revolutionized the music industry, providing access to a vast collection of songs across different genres and artists. However, navigating through this extensive library can be overwhelming. The songs clustering approach helps organize songs by categorizing them based on their musical features, leading to a more streamlined music discovery process.
 
