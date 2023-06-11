@@ -12,9 +12,8 @@ This project aims to cluster Spotify songs using K-means, Hierarchical, and DBSC
 - [Clustering Algorithms](#clustering-algorithms)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -62,17 +61,10 @@ The quality of the song clusters will be evaluated using internal and external v
 
 The clustering results will be visualized using scatter plots, dendrograms, and heatmaps to provide a clear understanding of the song categorization. The visualizations will help identify patterns, outliers, and relationships between different clusters.
 
-## Usage
-
-Detailed instructions on how to run the clustering algorithms and explore the results can be found in the [Usage](USAGE.md) document.
-
 ## Contributing
 
-Contributions to this project are welcome! If you have any ideas or suggestions, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Contributor 1: Do Tuan Minh - 20200390 - ICT-K65 - HUST
+Contributor 2: Nguyen Minh Huy - 20205158 - ICT-K65 - HUST
 
 ---
 
