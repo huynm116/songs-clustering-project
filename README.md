@@ -68,4 +68,4 @@ Contributor 2: Nguyen Minh Huy - 20205158 - ICT-K65 - HUST
 
 ---
 
-By applying K-means, Hierarchical, and DBSCAN clustering algorithms to Spotify songs, this project aims to enhance music exploration, enable personalized recommendations, and uncover
+By applying K-means, Hierarchical, and DBSCAN clustering algorithms to Spotify songs, this project aims to enhance music exploration, enable personalized recommendations, and uncover underlying patterns in music.
