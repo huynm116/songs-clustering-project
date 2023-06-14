@@ -28,10 +28,15 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/songs-clustering-project.git
+git clone https://github.com/huynm116/songs-clustering-project.git
 ```
 
-2. Install the required dependencies:
+2.Navigate into the cloned directory: Use the cd command to enter the cloned project directory:
+
+```bash
+cd songs-clustering-project
+```
+3. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
