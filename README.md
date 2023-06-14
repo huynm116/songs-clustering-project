@@ -31,7 +31,7 @@ To get started with the project, follow these steps:
 git clone https://github.com/huynm116/songs-clustering-project.git
 ```
 
-2.Navigate into the cloned directory: Use the cd command to enter the cloned project directory:
+2. Navigate into the cloned directory: Use the cd command to enter the cloned project directory:
 
 ```bash
 cd songs-clustering-project
@@ -42,7 +42,7 @@ cd songs-clustering-project
 pip install -r requirements.txt
 ```
 
-3. Explore the code and data in the repository.
+4. Explore the code and data in the repository.
 
 ## Dataset
 
